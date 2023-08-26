@@ -18,3 +18,5 @@ C:\Users\VillageTech\Desktop\Vortex\VortexEditor\VortexEditor\obj\Debug\refint\V
 C:\Users\VillageTech\Desktop\Vortex\VortexEditor\VortexEditor\obj\Debug\VortexEditor.pdb
 C:\Users\VillageTech\Desktop\Vortex\VortexEditor\VortexEditor\obj\Debug\VortexEditor.genruntimeconfig.cache
 C:\Users\VillageTech\Desktop\Vortex\VortexEditor\VortexEditor\obj\Debug\ref\VortexEditor.dll
+C:\Users\VillageTech\Desktop\Vortex\VortexEditor\VortexEditor\obj\Debug\Game Project\ProjectBrowserDialog.g.cs
+C:\Users\VillageTech\Desktop\Vortex\VortexEditor\VortexEditor\obj\Debug\Game Project\ProjectBrowserDialog.baml
